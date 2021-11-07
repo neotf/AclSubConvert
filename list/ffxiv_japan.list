@@ -1,11 +1,10 @@
 # Final Fantasy XIV Japan Server
-
+DOMAIN-SUFFIX,jp.finalfantasyxiv.com
 # Elemental Lobby
 DOMAIN-SUFFIX,neolobby01.ffxiv.com
 # Gaia Lobby
 DOMAIN-SUFFIX,neolobby03.ffxiv.com
 # Mana Lobby
 DOMAIN-SUFFIX,neolobby05.ffxiv.com
-
 # Game Server
 IP-CIDR,124.150.157.0/24
