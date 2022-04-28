@@ -1,4 +1,6 @@
 DOMAIN,weibo.cn
 DOMAIN,weibo.com
+DOMAIN,www.weibo.cn
 DOMAIN,www.weibo.com
+DOMAIN-SUFFIX,api.weibo.cn
 DOMAIN-SUFFIX,api.weibo.com
